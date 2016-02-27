@@ -1,0 +1,21 @@
+{
+    "name": "kriss/yii2-beyond-admin-asset",
+    "description": "yii2 beyond admin asset",
+    "type": "yii2-extension",
+    "keywords": ["yii2","widget","beyond admin","view"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kriss",
+            "email": "462679766@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kriss\\beyond\\": ""
+        }
+    }
+}
